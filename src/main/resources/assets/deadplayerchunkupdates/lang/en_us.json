@@ -1,0 +1,13 @@
+{
+  "itemGroup.deadplayerchunkupdates": "Example Mod Tab",
+  "block.deadplayerchunkupdates.example_block": "Example Block",
+  "item.deadplayerchunkupdates.example_item": "Example Item",
+
+  "deadplayerchunkupdates.configuration.title": "Dead Player Chunk Updates Configs",
+  "deadplayerchunkupdates.configuration.section.deadplayerchunkupdates.common.toml": "Dead Player Chunk Updates Configs",
+  "deadplayerchunkupdates.configuration.section.deadplayerchunkupdates.common.toml.title": "Dead Player Chunk Updates Configs",
+  "deadplayerchunkupdates.configuration.items": "Item List",
+  "deadplayerchunkupdates.configuration.logDirtBlock": "Log Dirt Block",
+  "deadplayerchunkupdates.configuration.magicNumberIntroduction": "Magic Number Text",
+  "deadplayerchunkupdates.configuration.magicNumber": "Magic Number"
+}
